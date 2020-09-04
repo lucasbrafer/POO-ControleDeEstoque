@@ -5,3 +5,6 @@ awesome description here
 
 ##  GIF representando a interface
 ![gif](interface.gif)
+
+## Licença
+Este projeto está sob a Licença [MIT](LICENSE.md)
