@@ -1,0 +1,69 @@
+C:\Users\1137697\Desktop\Projetos\Controle_de_Estoque\Controle_de_Estoque\bin\Debug\Controle_de_Estoque.exe.config
+C:\Users\1137697\Desktop\Projetos\Controle_de_Estoque\Controle_de_Estoque\bin\Debug\Controle_de_Estoque.exe
+C:\Users\1137697\Desktop\Projetos\Controle_de_Estoque\Controle_de_Estoque\bin\Debug\Controle_de_Estoque.pdb
+C:\Users\1137697\Desktop\Projetos\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.csprojAssemblyReference.cache
+C:\Users\1137697\Desktop\Projetos\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.Form1.resources
+C:\Users\1137697\Desktop\Projetos\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.Properties.Resources.resources
+C:\Users\1137697\Desktop\Projetos\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.csproj.GenerateResource.cache
+C:\Users\1137697\Desktop\Projetos\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.csproj.CoreCompileInputs.cache
+C:\Users\1137697\Desktop\Projetos\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.exe
+C:\Users\1137697\Desktop\Projetos\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.pdb
+C:\Users\Marcos Pablo\Desktop\Controle_de_Estoque\Controle_de_Estoque\bin\Debug\Controle_de_Estoque.exe.config
+C:\Users\Marcos Pablo\Desktop\Controle_de_Estoque\Controle_de_Estoque\bin\Debug\Controle_de_Estoque.exe
+C:\Users\Marcos Pablo\Desktop\Controle_de_Estoque\Controle_de_Estoque\bin\Debug\Controle_de_Estoque.pdb
+C:\Users\Marcos Pablo\Desktop\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.Form1.resources
+C:\Users\Marcos Pablo\Desktop\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.Properties.Resources.resources
+C:\Users\Marcos Pablo\Desktop\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.csproj.GenerateResource.Cache
+C:\Users\Marcos Pablo\Desktop\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Pablo\Desktop\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.exe
+C:\Users\Marcos Pablo\Desktop\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.pdb
+C:\Users\Marcos Pablo\Desktop\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.csprojResolveAssemblyReference.cache
+C:\Users\1137697\Desktop\Controle_de_Estoque\Controle_de_Estoque\bin\Debug\Controle_de_Estoque.exe.config
+C:\Users\1137697\Desktop\Controle_de_Estoque\Controle_de_Estoque\bin\Debug\Controle_de_Estoque.exe
+C:\Users\1137697\Desktop\Controle_de_Estoque\Controle_de_Estoque\bin\Debug\Controle_de_Estoque.pdb
+C:\Users\1137697\Desktop\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.csprojAssemblyReference.cache
+C:\Users\1137697\Desktop\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.Form1.resources
+C:\Users\1137697\Desktop\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.Properties.Resources.resources
+C:\Users\1137697\Desktop\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.csproj.GenerateResource.cache
+C:\Users\1137697\Desktop\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.csproj.CoreCompileInputs.cache
+C:\Users\1137697\Desktop\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.exe
+C:\Users\1137697\Desktop\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.pdb
+C:\Users\Marcos Pablo\Desktop\Trabalho poo\Controle_de_Estoque\Controle_de_Estoque\bin\Debug\Controle_de_Estoque.exe.config
+C:\Users\Marcos Pablo\Desktop\Trabalho poo\Controle_de_Estoque\Controle_de_Estoque\bin\Debug\Controle_de_Estoque.exe
+C:\Users\Marcos Pablo\Desktop\Trabalho poo\Controle_de_Estoque\Controle_de_Estoque\bin\Debug\Controle_de_Estoque.pdb
+C:\Users\Marcos Pablo\Desktop\Trabalho poo\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.csprojResolveAssemblyReference.cache
+C:\Users\Marcos Pablo\Desktop\Trabalho poo\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.Form1.resources
+C:\Users\Marcos Pablo\Desktop\Trabalho poo\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.Properties.Resources.resources
+C:\Users\Marcos Pablo\Desktop\Trabalho poo\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.csproj.GenerateResource.Cache
+C:\Users\Marcos Pablo\Desktop\Trabalho poo\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Pablo\Desktop\Trabalho poo\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.exe
+C:\Users\Marcos Pablo\Desktop\Trabalho poo\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.pdb
+C:\Users\lucinea\OneDrive\FACUL_ARTHUR\##FACUL##\2_periodo\POO_pratica\Controle_de_Estoque\Controle_de_Estoque\bin\Debug\Controle_de_Estoque.exe.config
+C:\Users\lucinea\OneDrive\FACUL_ARTHUR\##FACUL##\2_periodo\POO_pratica\Controle_de_Estoque\Controle_de_Estoque\bin\Debug\Controle_de_Estoque.exe
+C:\Users\lucinea\OneDrive\FACUL_ARTHUR\##FACUL##\2_periodo\POO_pratica\Controle_de_Estoque\Controle_de_Estoque\bin\Debug\Controle_de_Estoque.pdb
+C:\Users\lucinea\OneDrive\FACUL_ARTHUR\##FACUL##\2_periodo\POO_pratica\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.csprojAssemblyReference.cache
+C:\Users\lucinea\OneDrive\FACUL_ARTHUR\##FACUL##\2_periodo\POO_pratica\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.Form1.resources
+C:\Users\lucinea\OneDrive\FACUL_ARTHUR\##FACUL##\2_periodo\POO_pratica\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.Properties.Resources.resources
+C:\Users\lucinea\OneDrive\FACUL_ARTHUR\##FACUL##\2_periodo\POO_pratica\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.csproj.GenerateResource.cache
+C:\Users\lucinea\OneDrive\FACUL_ARTHUR\##FACUL##\2_periodo\POO_pratica\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.csproj.CoreCompileInputs.cache
+C:\Users\lucinea\OneDrive\FACUL_ARTHUR\##FACUL##\2_periodo\POO_pratica\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.exe
+C:\Users\lucinea\OneDrive\FACUL_ARTHUR\##FACUL##\2_periodo\POO_pratica\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.pdb
+C:\Users\lucinea\OneDrive\_FACUL_ARTHUR\##FACUL##\2_periodo\POO_pratica\Controle_de_Estoque\Controle_de_Estoque\bin\Debug\Controle_de_Estoque.exe.config
+C:\Users\lucinea\OneDrive\_FACUL_ARTHUR\##FACUL##\2_periodo\POO_pratica\Controle_de_Estoque\Controle_de_Estoque\bin\Debug\Controle_de_Estoque.exe
+C:\Users\lucinea\OneDrive\_FACUL_ARTHUR\##FACUL##\2_periodo\POO_pratica\Controle_de_Estoque\Controle_de_Estoque\bin\Debug\Controle_de_Estoque.pdb
+C:\Users\lucinea\OneDrive\_FACUL_ARTHUR\##FACUL##\2_periodo\POO_pratica\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.csprojAssemblyReference.cache
+C:\Users\lucinea\OneDrive\_FACUL_ARTHUR\##FACUL##\2_periodo\POO_pratica\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.Form1.resources
+C:\Users\lucinea\OneDrive\_FACUL_ARTHUR\##FACUL##\2_periodo\POO_pratica\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.Properties.Resources.resources
+C:\Users\lucinea\OneDrive\_FACUL_ARTHUR\##FACUL##\2_periodo\POO_pratica\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.csproj.GenerateResource.cache
+C:\Users\lucinea\OneDrive\_FACUL_ARTHUR\##FACUL##\2_periodo\POO_pratica\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.csproj.CoreCompileInputs.cache
+C:\Users\lucinea\OneDrive\_FACUL_ARTHUR\##FACUL##\2_periodo\POO_pratica\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.exe
+C:\Users\lucinea\OneDrive\_FACUL_ARTHUR\##FACUL##\2_periodo\POO_pratica\Controle_de_Estoque\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.pdb
+C:\Users\Lucas\Documents\Controle_de_EstoquePOO\Controle_de_Estoque\bin\Debug\Controle_de_Estoque.exe.config
+C:\Users\Lucas\Documents\Controle_de_EstoquePOO\Controle_de_Estoque\bin\Debug\Controle_de_Estoque.exe
+C:\Users\Lucas\Documents\Controle_de_EstoquePOO\Controle_de_Estoque\bin\Debug\Controle_de_Estoque.pdb
+C:\Users\Lucas\Documents\Controle_de_EstoquePOO\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\Controle_de_EstoquePOO\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.Form1.resources
+C:\Users\Lucas\Documents\Controle_de_EstoquePOO\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.Properties.Resources.resources
+C:\Users\Lucas\Documents\Controle_de_EstoquePOO\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.csproj.GenerateResource.cache
+C:\Users\Lucas\Documents\Controle_de_EstoquePOO\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.exe
+C:\Users\Lucas\Documents\Controle_de_EstoquePOO\Controle_de_Estoque\obj\Debug\Controle_de_Estoque.pdb

@@ -8,4 +8,4 @@ O Desafio proposto pelo professor de desenvolver um sistema utilizando WindowsFo
 ![gif](interface.gif)
 
 ## Licença
-Este projeto está sob a Licença [MIT](LICENSE.md)
+Este projeto está sob a Licença [MIT](LICENSE.md).

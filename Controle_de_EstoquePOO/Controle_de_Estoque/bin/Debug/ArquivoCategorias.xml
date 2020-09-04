@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCategoria xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Categoria>
+    <Código_Categoria>262722</Código_Categoria>
+    <Nome>ALIMENTOS</Nome>
+  </Categoria>
+  <Categoria>
+    <Código_Categoria>262924</Código_Categoria>
+    <Nome>BEBIDAS</Nome>
+  </Categoria>
+  <Categoria>
+    <Código_Categoria>26365</Código_Categoria>
+    <Nome>BRINQUEDOS</Nome>
+  </Categoria>
+  <Categoria>
+    <Código_Categoria>264315</Código_Categoria>
+    <Nome>COSMÉTICOS</Nome>
+  </Categoria>
+  <Categoria>
+    <Código_Categoria>071550</Código_Categoria>
+    <Nome>PENIS</Nome>
+  </Categoria>
+</ArrayOfCategoria>
